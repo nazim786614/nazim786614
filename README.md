@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<
+< I NAZIM HUASSAIN
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__nazim__17_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nazim Hussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NazimHussa93153) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moi786786nazim@gmail.com) 
